@@ -6,11 +6,12 @@ import numpy as np
 from PIL import Image
 
 # Read in global data
-nfl_data = pd.read_csv("data/nfl_data.csv")
-pil_image = Image.open("assets/nfl.png")
+nfl_data = pd.read_csv("../data/nfl_data.csv")
+pil_image = Image.open("../assets/nfl.png")
 
 # Setup app and layout/frontend
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.MORPH])
+server = app.server
 app.layout = dbc.Container(
     [
         html.Hr(),
