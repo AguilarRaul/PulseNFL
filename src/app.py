@@ -1,6 +1,5 @@
 import altair as alt
 from dash import dash, dcc, html, Input, Output
-from vega_datasets import data
 import dash_bootstrap_components as dbc
 import pandas as pd
 import numpy as np
