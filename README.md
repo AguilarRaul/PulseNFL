@@ -2,7 +2,7 @@
 
 ## Welcome, sports enthusiast! 
 
-I am glad you are interested in exploring your favorite team's regular season standings. In this dashboard, you will find the most important statistics of teams performance in one place, fast and accurate information is just a couple of clicks away!
+I am glad you are interested in exploring your favorite team's regular season standings. In this dashboard, you will find the most important statistics of teams' performance in one place, fast and accurate information is just a couple of clicks away!
 
 ## Table of contents
 
@@ -27,11 +27,11 @@ You can find more information on the dashboard motivation in the [proposal.md](h
 
 ![](img/NFL_Pulse.gif)
 
-The dashboard contains two filters, allowing the user to select its favorite team and the season of his preference. It consists of two plots:
+The dashboard contains two filters, allowing the user to select its favorite team and the season of his preference. The dashboard also consists of two plots:
 
-1. `Team Winning Percetage During Regular Season`: here you can fund the number of wins and losses of a team (tooltip), the winning percentage and whether or not the team qualified for the postseason that year.
+1. `Team Winning Percetage During Regular Season`: here you can find the number of wins and losses of a team (tooltip), the winning percentage and whether or not the team qualified for the postseason that year.
 
-2. `Team Performance Metrics During Regular Season`: contains the defensive rating (a measure of how good a team's defense was, the higher the better), the offensive rating (the higher the better), and the schedule difficulty rating (indicates how difficult the team's opponents were, a high number indicates that the opponents were difficult).
+2. `Team Performance Metrics During Regular Season`: contains the defensive rating (a measure of how good a team's defense was, the higher the better, a value greater than 0 is desirable), the offensive rating (higher than 0 is better), and the schedule difficulty rating (indicates how difficult the team's opponents were, a number greater than 0 indicates that the opponents were difficult).
 
 ## About the data
 
@@ -48,7 +48,7 @@ The original dataset is made up of from 638 observations and 15 variables, both 
 |defensive_ranking    |double    | Team defense quality relative to average (0.0) as measured by SRS (Simple Rating System) |
 |playoffs             |character | Made playoffs or not |
 
-> The data set is public and can be found in [tidytuesday](https://github.com/rfordatascience/tidytuesday). Follow this link  to access to the source dataset [standings.csv](https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2020/2020-02-04/standings.csv).
+> The data set is public and can be found in [tidytuesday](https://github.com/rfordatascience/tidytuesday). Follow this link to access to the source dataset [standings.csv](https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2020/2020-02-04/standings.csv).
 
 ## Installation
 
