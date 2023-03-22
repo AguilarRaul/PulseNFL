@@ -1,13 +1,13 @@
 # NFL Pulse  🏈
 
-## Welcome, sports enthusiast
+## Welcome, sports enthusiast! 
 
-We are glad you are interested in exploring your favorite team's regular season standings. In this dashboard, you will find the most important statistics of team performance in one place, fast and accurate information is just a couple of clicks away!
+I am glad you are interested in exploring your favorite team's regular season standings. In this dashboard, you will find the most important statistics of teams performance in one place, fast and accurate information is just a couple of clicks away!
 
 ## Table of contents
 
 - [Explore the app](#explore-the-app)
-- [Dashboard proposal | Motivation](#motivation)
+- [Dashboard proposal | Motivation](#dashboard-proposal-|-motivation)
 - [Description](#description)
 - [About the data](#about-the-data)
 - [Installation](#installation)
@@ -21,7 +21,7 @@ You can access the deployed app on [Render.com here](https://nflpulse.onrender.c
 
 The National Football League (NFL) is the most important professional sports league in the United States. For NFL fans and analysts, it is important to know information about the historical performance of their teams to have passionate conversations and debates. This is what motivated me to build this dashboard!
 
-You can find more information on the dashboard motivation in the [proposal.md](https://github.com/AguilarRaul/PulseNFL/tree/main/reports/proposal.md)
+You can find more information on the dashboard motivation in the [proposal.md](https://github.com/AguilarRaul/PulseNFL/tree/main/reports/proposal.md).
 
 ## Description
 
@@ -29,9 +29,9 @@ You can find more information on the dashboard motivation in the [proposal.md](h
 
 The dashboard contains two filters, allowing the user to select its favorite team and the season of his preference. It consists of two plots:
 
-1. Team Winning Percetage During Regular Season: here you can fund the number of wins and losses of a team (tooltip), the winning percentage and whether or not the team qualified for the postseason that year.
+1. `Team Winning Percetage During Regular Season`: here you can fund the number of wins and losses of a team (tooltip), the winning percentage and whether or not the team qualified for the postseason that year.
 
-2. Team Performance Metrics During Regular Season: contains the defensive rating (a measure of how good a team's defense was, the higher the better), the offensive rating (the higher the better), and the schedule difficulty rating (indicates how difficult the team's opponents were, a high number indicates that the opponents were difficult).
+2. `Team Performance Metrics During Regular Season`: contains the defensive rating (a measure of how good a team's defense was, the higher the better), the offensive rating (the higher the better), and the schedule difficulty rating (indicates how difficult the team's opponents were, a high number indicates that the opponents were difficult).
 
 ## About the data
 
