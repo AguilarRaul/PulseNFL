@@ -9,11 +9,11 @@
 ##### Target audience
 
 > Enthusiasts who want to know more about their favorite NFL team.
-> Sports analysts who want to know more about any team's historical performance.
+> Sports analysts who want to have a glimpse of any team's historical performance.
 
 ##### Dashboard motivation
 
-> The National Football League (NFL) is the most important professional sports league in the United States. For NFL fans and analysts, it is important to know information about the historical performance of their teams to have passionate conversations and debates.
+> The National Football League (NFL) is the most important professional sports league in the United States. For NFL fans and analysts, it is important to get information about the historical performance of their teams to have passionate conversations and debates.
 
 > The objective of this dashboard is to put the most important statistics of team performance in one place, allowing anyone to obtain fast and accurate information just a couple of clicks away.
 
