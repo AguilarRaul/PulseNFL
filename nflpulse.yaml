@@ -1,0 +1,12 @@
+name: 'nflpulse'
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - ipykernel
+  - pandas
+  - plotly
+  - altair
+  - dash=2.8.*
+  - dash-bootstrap-components
+  - pillow
