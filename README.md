@@ -82,4 +82,7 @@ I need your help, I just scratched the surface! Please check out the [contributi
 
 ## Contributors
 
-Raul Aguilar
+<a href="https://github.com/AguilarRaul/PulseNFL/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=AguilarRaul/PulseNFL" />
+</a>
+
