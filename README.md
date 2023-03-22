@@ -17,7 +17,7 @@ I am glad you are interested in exploring your favorite team's regular season st
 
 You can access the deployed app on [Render.com here](https://nflpulse.onrender.com/)!
 
-## Dashboard proposal | Motivation
+## Motivation
 
 The National Football League (NFL) is the most important professional sports league in the United States. For NFL fans and analysts, it is important to know information about the historical performance of their teams to have passionate conversations and debates. This is what motivated me to build this dashboard!
 
