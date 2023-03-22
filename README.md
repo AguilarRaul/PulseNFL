@@ -8,7 +8,7 @@ I am glad you are interested in exploring your favorite team's regular season st
 
 - [Explore the app](#explore-the-app)
 - [Motivation](#motivation)
-- [Description](#description)
+- [Description and usage](#description-and-usage)
 - [About the data](#about-the-data)
 - [Installation](#installation)
 - [Contributing](#contributing)
@@ -23,7 +23,7 @@ The National Football League (NFL) is the most important professional sports lea
 
 You can find more information on the dashboard motivation in the [proposal.md](https://github.com/AguilarRaul/PulseNFL/tree/main/reports/proposal.md).
 
-## Description
+## Description and usage
 
 ![](img/NFL_Pulse.gif)
 
@@ -35,25 +35,18 @@ The dashboard contains two filters, allowing the user to select its favorite tea
 
 ## About the data
 
-The dataset is made up of from 638 observations and 15 variables, both categorical and numerical, these variables represent attributes associated with the team performance given a specific season. Below is a summary of the variables of the dataset:
+The original dataset is made up of from 638 observations and 15 variables, both categorical and numerical, these variables represent attributes associated with the team performance given a specific season. Below is a summary of the variables of the dataset being used currently, the whole data set description can be found here [proposal.md](https://github.com/AguilarRaul/PulseNFL/tree/main/reports/proposal.md):
 
 |variable             |class     |description |
 |:--------------------|:---------|:-----------|
-|team                 |character | Team city |
 |team_name            |character | Team name|
 |year                 |integer   | season year |
 |wins                 |double    | Wins (0 to 16)|
 |loss                 |double    | Losses (0 to 16) |
-|points_for           |double    | points for (offensive performance) |
-|points_against       |double    | points for (defensive performance) |
-|points_differential  |double    | Point differential (points_for - points_against) |
-|margin_of_victory    |double    | (Points Scored - Points Allowed)/ Games Played |
 |strength_of_schedule |double    | Average quality of opponent as measured by SRS (Simple Rating System) |
-|simple_rating        |double    |Team quality relative to average (0.0) as measured by SRS (Simple Rating System) SRS = MoV + SoS = OSRS + DSRS |
 |offensive_ranking    |double    | Team offense quality relative to average (0.0) as measured by SRS (Simple Rating System)|
 |defensive_ranking    |double    | Team defense quality relative to average (0.0) as measured by SRS (Simple Rating System) |
 |playoffs             |character | Made playoffs or not |
-|sb_winner            |character | Won superbowl or not |
 
 > The data set is public and can be found in [tidytuesday](https://github.com/rfordatascience/tidytuesday). Follow this link  to access to the source dataset [standings.csv](https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2020/2020-02-04/standings.csv).
 
