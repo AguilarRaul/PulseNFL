@@ -7,7 +7,7 @@ I am glad you are interested in exploring your favorite team's regular season st
 ## Table of contents
 
 - [Explore the app](#explore-the-app)
-- [Dashboard proposal | Motivation](#dashboard-proposal-|-motivation)
+- [Motivation](#motivation)
 - [Description](#description)
 - [About the data](#about-the-data)
 - [Installation](#installation)
